@@ -5,6 +5,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Running Apache Submarine with minikube](https://dev.to/huang06/running-apache-submarine-with-minikube-3dp2)
+- [The Performance Benchmarks Comparing various combinations of GCC and Python](https://dev.to/huang06/the-performance-benchmarks-comparing-various-combinations-of-gcc-and-python-3lco)
+- [My Git Configurations](https://dev.to/huang06/git-configurations-1598)
+- [My Bash settings on Apple Silicon](https://dev.to/huang06/my-bashrc-on-apple-silicon-1iij)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
