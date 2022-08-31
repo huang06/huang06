@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yao-Ching Huang</h1>
-<h3 align="center">A MLOps enthusiasts</h3>
+<h3 align="center">A MLOps enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huang06" alt="huang06" /></a> </p>
 
