@@ -7,8 +7,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [重新理解Python compatible release operator](https://dev.to/huang06/zhong-xin-li-jie-python-compatible-release-operator-39o0)
 - [Airflow Best Practices &lpar;翻譯&rpar;](https://dev.to/huang06/airflow-best-practices-fan-yi--25pl)
+- [MLOps: Motivation &lpar;翻譯&rpar;](https://dev.to/huang06/mlops-motivation-3gja)
 - [Apache Submarine Quick Start with minikube &lpar;for development&rpar;](https://dev.to/huang06/running-apache-submarine-with-minikube-3dp2)
-- [The Performance Benchmarks Comparing various combinations of GCC and Python](https://dev.to/huang06/the-performance-benchmarks-comparing-various-combinations-of-gcc-and-python-3lco)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
