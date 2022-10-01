@@ -11,4 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huang06&show_icons=true&locale=en&layout=compact" alt="huang06" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huang06&show_icons=true&locale=en" alt="huang06" /></p>
+<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=huang06&show_icons=true&locale=en" alt="huang06" /></p>
