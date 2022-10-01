@@ -5,10 +5,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [用tmp_path處理pytest暫存檔案](https://dev.to/huang06/yong-tmppathchu-li-pytestzan-cun-dang-an-19em)
 - [MLOps Stack Canvas &lpar;翻譯&rpar;](https://dev.to/huang06/mlops-stack-canvas-fan-yi--1jal)
 - [Makefile常用指令整理](https://dev.to/huang06/makefilechang-yong-zhi-ling-zheng-li-4gme)
 - [重新認識Python compatible release operator](https://dev.to/huang06/zhong-xin-li-jie-python-compatible-release-operator-39o0)
-- [Airflow Best Practices &lpar;翻譯&rpar;](https://dev.to/huang06/airflow-best-practices-fan-yi--25pl)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
