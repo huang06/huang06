@@ -2,10 +2,10 @@
 
 ### 📕 Latest dev.to posts [@huang06](https://dev.to/huang06)
 <!-- BLOG-POST-LIST:START -->
+- [觀察開源專案如何使用codecov](https://dev.to/huang06/guan-cha-kai-yuan-zhuan-an-ru-he-shi-yong-codecov-5dmh)
 - [用tmp_path處理pytest暫存檔案](https://dev.to/huang06/yong-tmppathchu-li-pytestzan-cun-dang-an-19em)
 - [MLOps Stack Canvas &lpar;翻譯&rpar;](https://dev.to/huang06/mlops-stack-canvas-fan-yi--1jal)
 - [Makefile常用指令整理](https://dev.to/huang06/makefilechang-yong-zhi-ling-zheng-li-4gme)
-- [重新認識Python compatible release operator](https://dev.to/huang06/zhong-xin-li-jie-python-compatible-release-operator-39o0)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
