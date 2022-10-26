@@ -2,10 +2,10 @@
 
 ### 📕 Latest dev.to posts [@huang06](https://dev.to/huang06)
 <!-- BLOG-POST-LIST:START -->
+- [Airflow不再建議用days_ago設定start_date](https://dev.to/huang06/airflowbu-zai-jian-yi-yong-daysagoshe-ding-startdate-213o)
 - [Airflow不再使用 s3 conn_type](https://dev.to/huang06/airflowbu-zai-shi-yong-s3-conntype-14h8)
 - [觀察開源專案如何使用codecov](https://dev.to/huang06/guan-cha-kai-yuan-zhuan-an-ru-he-shi-yong-codecov-5dmh)
 - [用tmp_path處理pytest暫存檔案](https://dev.to/huang06/yong-tmppathchu-li-pytestzan-cun-dang-an-19em)
-- [Makefile常用指令整理](https://dev.to/huang06/makefilechang-yong-zhi-ling-zheng-li-4gme)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
