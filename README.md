@@ -2,10 +2,10 @@
 
 ### 📕 Latest dev.to posts [@huang06](https://dev.to/huang06)
 <!-- BLOG-POST-LIST:START -->
+- [Airflow :: DAG排程參數統一使用`schedule`](https://dev.to/huang06/airflow-scheduleintervalgai-ming-wei-schedule-4ig6)
 - [Airflow :: 重新認識Airflow排程調度機制](https://dev.to/huang06/airflow-zhong-xin-ren-shi-airflowpai-cheng-diao-du-ji-zhi-ke)
 - [Airflow :: 不要再使用DummyOperator](https://dev.to/huang06/airflow-deprecate-dummyoperator-in-favor-of-emptyoperator-20l5)
 - [Airflow :: 不再建議用days_ago設定start_date](https://dev.to/huang06/airflowbu-zai-jian-yi-yong-daysagoshe-ding-startdate-213o)
-- [Airflow :: s3 Connection改名為Amazon Web Services](https://dev.to/huang06/airflowbu-zai-shi-yong-s3-conntype-14h8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
