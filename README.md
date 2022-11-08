@@ -2,13 +2,13 @@
 
 ### 📕 Latest dev.to posts [@huang06](https://dev.to/huang06)
 <!-- BLOG-POST-LIST:START -->
+- [Airflow :: Deploy Apache Airflow on K3s](https://dev.to/huang06/airflow-deploy-apache-airflow-on-rancher-k3s-1mim)
 - [Airflow :: 資源整理](https://dev.to/huang06/airflow-zi-yuan-zheng-li-2182)
 - [Airflow :: DAG排程參數統一使用`schedule`](https://dev.to/huang06/airflow-scheduleintervalgai-ming-wei-schedule-4ig6)
 - [Airflow :: 重新認識Airflow排程調度機制](https://dev.to/huang06/airflow-zhong-xin-ren-shi-airflowpai-cheng-diao-du-ji-zhi-ke)
 - [Airflow :: EmptyOperator取代DummyOperator](https://dev.to/huang06/airflow-deprecate-dummyoperator-in-favor-of-emptyoperator-20l5)
 - [Airflow :: 不建議用days_ago設定start_date](https://dev.to/huang06/airflowbu-zai-jian-yi-yong-daysagoshe-ding-startdate-213o)
 - [Airflow :: s3 Connection改名為Amazon Web Services](https://dev.to/huang06/airflowbu-zai-shi-yong-s3-conntype-14h8)
-- [觀察開源專案如何使用codecov](https://dev.to/huang06/guan-cha-kai-yuan-zhuan-an-ru-he-shi-yong-codecov-5dmh)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
