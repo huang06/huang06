@@ -7,8 +7,8 @@
 - [Airflow :: 該選CeleryExecutor還是KubernetesExecutor？](https://dev.to/huang06/airflow-gai-xuan-celeryexecutorhuan-shi-kubernetesexecutor-273e)
 - [Airflow :: Scaling Airflow to optimize performance &lpar;翻譯&rpar;](https://dev.to/huang06/airflow-scaling-parameters-4806)
 - [Bash常用指令](https://dev.to/huang06/linux-bash-script-examples-1njg)
-- [Airflow :: Deploy Apache Airflow on K3s](https://dev.to/huang06/airflow-deploy-apache-airflow-on-rancher-k3s-1mim)
 - [Airflow :: 參考資料](https://dev.to/huang06/airflow-zi-yuan-zheng-li-2182)
+- [Airflow :: DAG排程參數統一使用`schedule`](https://dev.to/huang06/airflow-scheduleintervalgai-ming-wei-schedule-4ig6)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
